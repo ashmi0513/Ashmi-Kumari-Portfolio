@@ -16,7 +16,7 @@ const footer = () => {
         <li><a href='#contact'>Contact</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
-        <li><a href='#protfolio'>Protfolio</a></li>
+        <li><a href='#protfolio'>Portfolio</a></li>
         <li><a href='#services'>Srvices</a></li>
       </ul>
 
@@ -28,7 +28,7 @@ const footer = () => {
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; 2022 JhumsLove. All right reserved </small>
+        <small>&copy; 2022 AshmiKumari. All right reserved </small>
       </div>
     
     </footer>
