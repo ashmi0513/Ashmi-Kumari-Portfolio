@@ -24,7 +24,7 @@ const data =[
         id: 3,
         image: IMG3,
         title:'My Portfolio Website',
-        github:"https://github.com/ashmi0513/Ashmi-Kumari-Profile.git",
+        github:"https://github.com/ashmi0513/Ashmi-Kumari-Portfolio.git",
         demo:"#"
     }
 ]
